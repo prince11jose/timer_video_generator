@@ -99,3 +99,9 @@ These codecs (mp4v, XVID, X264, WMV1, FLV1, etc.) are provided by the underlying
 If you encounter issues with specific formats not being supported, it may be due to the availability of codecs on your system or specific configurations of OpenCV during installation. Ensure your OpenCV installation includes support for the desired codecs by checking the build options or documentation specific to your environment.
 
 In summary, the script as modified should be capable of generating video files in common formats supported by OpenCV, provided that the necessary codecs are available on your system. Adjust the cv2.VideoWriter_fourcc codec identifier accordingly to match your desired output format.
+
+## Author
+Prince Jose
+prince11jose@hotmail.com
+[GitHub](https://github.com/prince11jose)
+[LinkedIn](https://www.linkedin.com/in/princejose-devops/)
